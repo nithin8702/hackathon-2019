@@ -1,0 +1,5 @@
+https://www.infoq.com/articles/machine-learning-techniques-predictive-maintenance
+https://www.researchgate.net/publication/313456329_Automated_IT_system_failure_prediction_A_deep_learning_approach
+https://medium.com/bigdatarepublic/machine-learning-for-predictive-maintenance-where-to-start-5f3b7586acfb
+
+predicting hardware failure using machine learning
